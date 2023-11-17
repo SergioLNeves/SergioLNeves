@@ -10,9 +10,7 @@
 
 ###
 
-<p align="left">Meu nome é Sérgio tenho 22 anos sou estudante de Análise e Desenvolvimento de Sistemas e sou Desenvolvedor Web React Full-Stack. Tenho conhecimento em Linguagens SQL e Javascript/Typescritpt, Criação de API com Node e React. 
-Atualmente estou no bootcamp da descomplica + nubank para me aprofundar em React e estudar mais sobre UI/UX.
-Além de Javascript estou iniciando meus estudos em Python e Java, junto com o framework angular.</p>
+<p align="left">Meu nome é Sérgio tenho 22 anos sou estudante de Análise e Desenvolvimento de Sistemas e Estágiario do Ideia Globo </p>
 
 ###
 
