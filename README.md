@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Meu nome é Sérgio tenho 22 anos sou estudante de Análise e Desenvolvimento de Sistemas e Estágiario do Ideia Globo </p>
+<p align="left">Meu nome é Sérgio tenho 22 anos sou estudante de Análise e Desenvolvimento de Sistemas e Estágiario da plataforma GloboID da Globo</p>
 
 ###
 
