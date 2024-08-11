@@ -20,7 +20,7 @@
 
 ### Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-sergiolneves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sergiolneves)](www.linkedin.com/in/sergiolneves)
+[![Linkedin](https://img.shields.io/badge/-sergiolneves-blue?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/sergiolneves")](www.linkedin.com/in/sergiolneves)
 
 
 
