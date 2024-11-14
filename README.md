@@ -2,10 +2,8 @@
 
 ### Sobre mim
 
-<p align="left"> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
-<p align="left"> 🎓 Estudando Análise e Desenvolvimento na Uninter.</p>
-<p align="left"> 💼 Trabalhando como desenvolvedor estagiário na Globo.</p>
-<p align="left"> 🌱 Aprendendo mais sobre Golang e Typescript.</p>
+<p align="left"> 🤔 Explorando novas tecnologias.</p>
+<p align="left"> 💼 Desenvolvedor Junior na Globo.</p>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=white)
