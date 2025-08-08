@@ -4,7 +4,6 @@
 
 <h3 align="center">Sobre mim</h3>
 
-<p align="center">🌱 Desenvolvedor Junior na Globo, explorando tecnologias modernas para soluções de grande escala.</p>
 <p align="center">🚀 Desenvolvedor FullStack Golang / React Typescript.</p>
 
 
