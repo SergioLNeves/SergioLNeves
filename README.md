@@ -1,23 +1,42 @@
-<div align="center">
+# Sérgio Luiz
 
-<h1>Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Como vai?</h1>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiolneves/)](https://www.linkedin.com/in/sergiolneves/)
 
-<h3 align="center">Sobre mim</h3>
+**Software Engineer | FullStack | Go | React**
 
-<p align="center">🚀 Desenvolvedor FullStack Golang / React Typescript.</p>
+Engenheiro de Software focado em soluções escaláveis e segurança. Atualmente desenvolvendo sistemas de gestão de identidade em alta escala.
 
+---
 
-<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"/>
-<img src="https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=white" alt="Golang"/>
-<img src="https://img.shields.io/badge/-Echo-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHBhdGggZD0iTTUwIDAgQzIyLjQ5IDAgMCAyMi40OSAwIDUwczIyLjQ5IDUwIDUwIDUwIDUwLTIyLjQ5IDUwLTUwUzU3LjUxIDAgNTAgMHptMCA5MGMtMjEuOTUgMC0zOC0xNi4wNS0zOC0zOHMxNi4wNS0zOCAzOC0zOCAzOCAxNi4wNSAzOCAzOC0xNi4wNSAzOC0zOCAzOHoiIGZpbGw9IiMwMDAiLz48L3N2Zz4=" alt="Echo"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHBhdGggZD0iTTUwIDAgQzIyLjQ5IDAgMCAyMi40OSAwIDUwczIyLjQ5IDUwIDUwIDUwIDUwLTIyLjQ5IDUwLTUwUzU3LjUxIDAgNTAgMHptMCA5MGMtMjEuOTUgMC0zOC0xNi4wNS0zOC0zOHMxNi4wNS0zOCAzOC0zOCAzOCAxNi4wNSAzOCAzOC0xNi4wNSAzOC0zOCAzOHoiIGZpbGw9IiM0N0EyNDgiLz48L3N2Zz4=" alt="MongoDB"/>
+### 🔭 Atualmente
 
-<br/><br/>
+Trabalho no time de **Autenticação (GloboID)** da **Globo**.
+* **Foco:** Gestão de identidades, Segurança e MFA (Multi-Factor Authentication).
+* **Stack Principal:** `Go` `Typescript` `GCP`
 
-<h3>Onde me encontrar</h3>
+---
 
-<a href="https://www.linkedin.com/in/sergiolneves" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiolneves/" alt="LinkedIn"/></a>
+### 💻 Tech Stack
 
+<div style="display: inline_block">
+  <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
+<br/>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/SergioLNeves">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SergioLNeves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLNeves&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
