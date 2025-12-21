@@ -31,12 +31,3 @@ Trabalho no time de **Autenticação (GloboID)** da **Globo**.
 <br/>
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/SergioLNeves">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SergioLNeves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLNeves&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
